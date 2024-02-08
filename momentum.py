@@ -1,0 +1,5 @@
+mass=float(input("Enter the mass of body (KG): "))
+vel=float(input("Enter the velocity of body (m/s): "))
+print("--------//--------//--------//-------")
+print("By using the formula: e=mc^2")
+print("e=",mass*(vel*vel))
